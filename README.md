@@ -1,2 +1,6 @@
-# html5-page-login
-Login page using html 5
+# Login page using HTML5
+
+Simple login page using HTML5 developed during the HCode HTML5 course.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
